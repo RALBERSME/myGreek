@@ -30,7 +30,10 @@ h1 {
   font-size: 1.8rem;
   word-wrap: break-word;
 }
-
+h3 {
+  text-align: justify;
+  hyphens: auto;
+}
 hr {
   border: none;
 
